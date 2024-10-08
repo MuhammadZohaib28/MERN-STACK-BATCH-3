@@ -59,4 +59,6 @@ for (let i = 0; i <= fruits.length; i++) {
 
 
 
+
+
 console.log(`Salman likes to eat ${fruits[0]} and ${fruits[1]}`)
