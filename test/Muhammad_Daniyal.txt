@@ -1,0 +1,22 @@
+
+   Write a `for` loop that prints the numbers from 1 to 5 in the console.
+
+
+   Create a `while` loop that prints the word "Hello" 3 times.
+
+
+   Write a `do-while` loop that prints the number 1 once, even if the condition is false.
+
+
+   Write an `if-else` statement that checks if a number is greater than 10. If it is, print "Number is large", otherwise print "Number is small".
+
+   Write a `switch` statement that checks a variable called `day` and prints the name of the day (e.g., "Monday", "Tuesday", etc.) for values 1 to 7.
+
+ 
+   Create an object named `person` with properties `name`, `age`, and `city`. Then, log the `name` property to the console.
+
+
+   Create an array of 5 colors, then log the third color to the console.
+
+
+   Create an array of 3 objects, each representing a book with `title` and `author` properties. Then, log the `title` of the second book to the console.

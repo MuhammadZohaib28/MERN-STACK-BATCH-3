@@ -1,0 +1,23 @@
+Write a for loop to print the first 5 multiples of 3.
+
+
+Use a while loop to print numbers from 10 down to 7.
+
+
+Create a do-while loop that prints "Learning JavaScript" 3 times.
+
+
+Write an if-else statement to check if a number is less than or equal to 50.
+
+
+Use a switch statement to print different fruit names based on a fruitCode (1 to 3).
+
+
+Create an object player with properties name, team, and position. Log the team property.
+
+
+Create an array of 3 car brands and print the second brand.
+
+
+Create an array of 3 objects representing games with name and platform. Print the platform of the third game.
+

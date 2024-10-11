@@ -1,0 +1,23 @@
+Write a for loop that prints the squares of numbers from 1 to 5.
+
+
+Use a while loop to print the word "Bye" 3 times.
+
+
+Write a do-while loop that prints "Start!" until a counter reaches 5.
+
+
+Write an if-else statement that checks if a variable temperature is above or below 30°C.
+
+
+Use a switch statement to print different beverages based on a drinkCode (1 to 3).
+
+
+Create an object student with properties name, age, and grade. Log the grade to the console.
+
+
+Create an array of 5 favorite colors and log the last color.
+
+
+Create an array of 2 objects representing cars with brand and year properties. Print the brand of the second car.
+

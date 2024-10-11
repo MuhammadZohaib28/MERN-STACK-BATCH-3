@@ -1,0 +1,23 @@
+Write a for loop to print the first 10 natural numbers.
+
+
+Use a while loop to print "Welcome" 2 times.
+
+
+Create a do-while loop that prints numbers from 3 to 1.
+
+
+Write an if-else statement that checks if a string is equal to "JavaScript".
+
+
+Use a switch statement to print a message based on the value of a role variable (e.g., "Admin", "User", "Guest").
+
+
+Create an object teacher with properties name, subject, and yearsOfExperience. Log the subject property.
+
+
+Create an array of 4 hobbies and print the first hobby.
+
+
+Create an array of 3 objects representing pets with name and type. Print the type of the second pet.
+

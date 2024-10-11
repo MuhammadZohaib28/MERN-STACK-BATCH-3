@@ -1,0 +1,24 @@
+Write a for loop that prints the multiplication table of 2 up to 10.
+
+
+Use a while loop to print numbers from 1 to 3.
+
+
+Write a do-while loop that prints "Good Job!" once, even if the condition is false.
+
+
+Check if a number is divisible by 5 using an if-else statement.
+
+
+Create a switch statement that prints different responses based on a day variable (1 to 7 for days of the week).
+
+
+Create an object movie with properties title, genre, and rating. Print the genre property.
+
+
+Create an array of 5 vegetables and print the third vegetable.
+
+
+Create an array of 2 objects representing phones with brand and price. Print the price of the first phone.
+
+

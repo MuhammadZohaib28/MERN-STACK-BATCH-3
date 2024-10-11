@@ -1,0 +1,22 @@
+Write a for loop to print the first 5 even numbers.
+
+
+Create a while loop that keeps printing numbers until it reaches 10.
+
+
+Write a do-while loop that prints the string "Learning" at least once, even if the condition is false.
+
+
+Check if a number is positive or negative using an if-else statement.
+
+
+Write a switch statement to print the month name based on a variable monthNumber (1-12).
+
+
+Create an object phone with properties brand, model, and price. Log the price to the console.
+
+
+Create an array of 4 fruit names and log the second fruit.
+
+
+Create an array of 3 objects representing books with title and pages properties. Print the pages of the third book.

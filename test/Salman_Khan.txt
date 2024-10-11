@@ -1,0 +1,23 @@
+Write a for loop that prints the numbers from 5 to 15.
+
+
+Use a while loop to print the word "Success" 2 times.
+
+
+Write a do-while loop that prints "Try Again" at least once, even if the condition is false.
+
+
+Write an if-else statement to check if a number is divisible by 10.
+
+
+Use a switch statement to print different greetings based on the languageCode variable (1 for "Hello", 2 for "Hola", etc.).
+
+
+Create an object animal with properties name, species, and age. Log the species property.
+
+
+Create an array of 6 numbers and print the second-to-last number.
+
+
+Create an array of 2 objects representing cities with name and population. Print the population of the first city.
+

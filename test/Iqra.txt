@@ -1,0 +1,23 @@
+Write a for loop to print numbers from 10 to 1 in reverse.
+
+
+Create a while loop that prints the word "Hello" until a counter reaches 3.
+
+
+Use a do-while loop to count down from 5 and stop when it reaches 0.
+
+
+Write an if-else statement to check if a number is greater than or equal to 18 (voting age).
+
+
+Use a switch statement to print different seasons based on a seasonNumber (1 to 4).
+
+
+Create an object laptop with properties brand, RAM, and storage. Log the RAM value.
+
+
+Create an array of 6 cities and print the fourth city.
+
+
+Create an array of 2 objects representing movies with title and rating properties. Print the title of the first movie.
+
